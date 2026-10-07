@@ -1,0 +1,7 @@
+artwork_id,title,district,site,state,last_cleaned,next_due,control_event
+AR-01,Bronze Heron,Canal,Lock Garden,current,2092-06-15,2092-07-15,
+AR-02,Mosaic Tide,Harbor,Ferry Arcade,due,2092-06-10,2092-06-24,
+AR-03,Orchard Gate,North,Market Square,due,2092-06-09,2092-06-30,CE-105
+AR-04,Night Compass,Central,Civic Steps,due,2092-06-19,2092-06-29,
+AR-05,Paper Sky,East,Library Court,due,2092-05-30,2092-06-06,
+AR-06,River Loom,South,Mill Walk,hold,2092-06-20,2092-07-10,CE-110

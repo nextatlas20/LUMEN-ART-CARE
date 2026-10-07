@@ -1,0 +1,16 @@
+artwork_id,title,district,site,cadence_days,active,revision
+AR-01,Bronze Heron,Canal,Lock Garden,30,yes,1
+AR-02,Mosaic Tide,Harbor,Ferry Arcade,14,yes,1
+AR-03,Orchard Gate,North,Market Square,30,yes,1
+AR-04,Night Compass,Central,Civic Steps,10,yes,1
+AR-05,Paper Sky,East,Library Court,7,yes,1
+AR-06,River Loom,South,Mill Walk,20,yes,2
+AR-07,Stone Choir,West,Depot Plaza,15,no,1
+AR-03, Orchard Gate , North , Market Square ,21,yes,2
+AR-06,River Loom Old,South,Mill Walk,25,yes,2
+AR-06,River Loom,South,Mill Walk,20,yes,2
+AR-08,Bad Cadence,West,Yard,0,yes,1
+AR-X9,Bad Identifier,West,Yard,12,yes,1
+AR-09,Pipe|Dream,West,Yard,12,yes,1
+AR-10,Missing Fields,West,12,yes
+AR-11,Inactive Revision,West,Old Court,10,no,3
